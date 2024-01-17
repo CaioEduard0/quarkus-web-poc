@@ -1,1 +1,1 @@
-Poc to test Quarkus web performance with Apache JMeter.
+Poc to test Quarkus Web performance with Apache JMeter.
